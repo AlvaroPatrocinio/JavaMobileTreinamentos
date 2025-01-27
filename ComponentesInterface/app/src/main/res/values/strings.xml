@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ComponentesInterface</string>
+    <string name="botao" />
+    <string name="Botao">botaozinho</string>
 </resources>
