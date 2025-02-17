@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046824712532",
+    "project_id": "ifood-9279c",
+    "storage_bucket": "ifood-9279c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046824712532:android:0679318db15a434714f0c1",
+        "android_client_info": {
+          "package_name": "com.example.ifoodyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Zl5TW2bCEFgSrriunraux9jkGRGy-3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
